@@ -5,12 +5,12 @@ friends and based on that our backend calculates the average budget which later 
 since yelp doesn't provide price ranges. Later to show our backend working we have built a single page in html and javascript which uses google
 map api and any charts to show the places on the map and price bar graph of the places so that it is easy to decide. To run the app.
 
-# intuit-hackathon
+
 Make a new directory. 
 navigate that directory
 
 $cd /yourDirectory
-$git clone https://github.com/latishk/intuit-hackathon.git
+$git clone git@github.com:ArjunNair9392/BudgetRestaurant.git
 
 make sure that you are in intuit-hackathon directory
 install node package manager 
