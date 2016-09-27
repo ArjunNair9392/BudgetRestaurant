@@ -10,7 +10,7 @@ Make a new directory.
 navigate that directory
 
 $cd /yourDirectory
-$git clone git@github.com:ArjunNair9392/BudgetRestaurant.git
+$git clone https://github.com/ArjunNair9392/BudgetRestaurant.git
 
 make sure that you are in intuit-hackathon directory
 install node package manager 
